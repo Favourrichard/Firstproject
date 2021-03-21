@@ -1,0 +1,136 @@
+/* page1 */
+.post {
+    margin-left: 23rem;
+}
+
+.Nav {
+    margin-left: 36rem;
+}
+
+.Menu {
+    margin-left: 32rem;
+}
+
+.Car {
+    margin-left: 82rem;
+    padding-left: 5px;
+}
+
+/* page 2 */
+
+.Ball {
+    margin-left: 30rem;
+}
+
+.Div {
+    margin-left: 20rem;
+}
+
+
+.step {
+    margin-left: 80rem;
+    /* margin-top: 5rem; */
+    cursor: pointer;
+    border: none;
+    background-color: white;
+    color: blue;
+}
+
+#fra {
+    margin-top: 4rem;
+    cursor: pointer;
+    border: none;
+    background-color: white;
+    color: blue;
+}
+
+/* PAGE 3 */
+ 
+.will {
+    margin-left: 30rem;
+}
+
+.wallet {
+    margin-left: 32rem;
+}
+
+.follow {
+    margin-left: 80rem;
+    color: blue;
+    border: none;
+    background-color: white;
+}
+
+.will9 {
+    border: none;
+    margin-top: 2rem;
+    color: blue;
+}
+
+/* PAGE 4 */
+
+.money {
+    margin-left: 28rem;
+}
+
+.income {
+    margin-left: 35rem;
+}
+
+.peer {
+    margin-left: 32rem;
+}
+
+.must {
+    margin-left: 82rem;
+    background-color: white;
+    cursor: pointer;
+    color: blue;
+    border-top: 78rem;
+    border:none;
+}
+
+.cot {
+    background-color: burlywood;
+    color: purple;
+    padding: 4px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin-left: 37rem;
+}
+
+.make {
+    border: none;
+    color: blue;
+    background-color: white;
+}
+
+/* PAGE 5 */
+
+.move {
+    margin-left: 25rem;
+}
+
+.jump {
+    margin-left: 25.5rem;
+}
+
+.Ego {
+    margin-left: 28rem;
+}
+
+.have {
+    margin-left: 35rem;
+    border: none;
+    padding: 8px;
+    text-transform: capitalize;
+    background-color: blue;
+    border-radius: 80rem;
+}
+
+.inside {
+    margin-left: 36.5rem;
+    background-color: blue;
+    border: none;
+}
